@@ -1,1 +1,1 @@
-Inicializando o repositório no Github
+Inicializando o repositório no Github e enviamos os arquivos do Git para o Github
